@@ -67,9 +67,7 @@
 	"devDependencies": {
 		"@changesets/cli": "^2.31.0",
 		"@types/node": "^25.6.0",
-		"@vitest/coverage-v8": "^4.1.7",
-		"vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1588",
-		"vitest": "^4.1.5"
+		"vite-plus": "https://pkg.pr.new/voidzero-dev/vite-plus@1588"
 	},
 	"engines": {
 		"node": ">=22.0.0"
